@@ -57,6 +57,7 @@ Tool	Language	Support	Description
 Wireshark	C/C++	Linux/Windows/macOS	Wireshark is a network protocol analyzer.
 WiFi Pumpkin	Python	Linux/Windows/macOS/Android	Framework for Rogue Wi-Fi Access Point Attack.
 Zarp	Python	Linux/Windows/macOS	A free network attack framework.
+
 🚀 Web Hacking
 Exploit popular CMSs that are hosted online.
 
@@ -71,67 +72,4 @@ Exploits for after you have already gained access.
 
 Tool	Language	Support	Description
 TheFatRat	C	Linux/Windows/macOS	Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll.
-📦 Frameworks
-Frameworks are packs of pen testing tools with custom shell navigation and documentation.
-
-Tool	Language	Support	Description
-Operative Framework	Python	Linux/Windows/macOS	Framework based on fingerprint action, this tool is used to get information on a website or a enterprise target with multiple modules.
-Metasploit	Ruby	Linux/Windows/macOS	A penetration testing framework for ethical hackers.
-cSploit	Java	Android	The most complete and advanced IT security professional toolkit on Android.
-radare2	C	Linux/Windows/macOS/Android	Unix-like reverse engineering framework and commandline tools.
-Wifiphisher	Python	Linux	The Rogue Access Point Framework.
-Beef	Javascript	Linux/Windows/macOS	The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
-Mobile Security Framework (MobSF)	Python	Linux/Windows/macOS	Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-Burp Suite	Java	Linux/Windows/macOS	Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. This tool is not free and open source
-(Table of Contents)
-
-Additional resources
-Devbreak on Twitter
-The Life of a Security Researcher
-Find an awesome hacking spots in your country
-Awesome-Hacking Lists
-Crack Station
-Exploit Database
-Hackavision
-Hackmethod
-Packet Storm Security
-SecLists
-SecTools
-Smash the Stack
-Don't use VPN services
-How to Avoid Becoming a Script Kiddie
-2017 Top 10 Application Security Risks
-Starting in cybersecurity ?
-Books / Manuals
-Warning : I haven't read them all so do not consider I am recommending as I liked them. They just seem to provide useful resources.
-
-Penetration Testing: A Hands-On Introduction to Hacking (2014)
-Kali Linux Revealed - PDF (2017)
-Blue Team Field Manual (BTFM) (2017)
-Cybersecurity - Attack and Defense Strategies (2018)
-NMAP Network Scanning : Official Discovery (2009)
-Social Engineering : The Art of Human Hacking (2010)
-Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous (2013)
-Discussions
-Reddit/HowToHack Learn and ask about hacking, security and pen testing.
-Reddit/hacking Discuss about hacking and web security.
-ax0nes Hacking, security, and software development forum.
-0Day.rocks on discord Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
-Reddit/AskNetsec Discuss about network security, ask professionals for advices about jobs and stuff.
-Security Advisories
-CVE
-CWE
-NVD
-Challenges
-Vulnhub - Has a lot of VMs to play with. Some are beginner friendly, some aren't.
-Itsecgames - bWAPP or buggy web app is a deliberately insecure web application.
-Dvwa - Damn Vulnerable Web Application is another deliberately insecure web application to practice your skills on.
-Hackthissite - A site which provides challenges, CTFs, and more to improve your hacking skills.
-Defend the Web - Defend the Web is an interactive security platform where you can learn and challenge your skills.
-Root-me - Another website which hosts challenges to test your hacking skills.
-HackTheBox - An online platform to test and advance your skills in penetration testing and cyber security.
-Overthewire - Learn and practice security concepts in the form of fun-filled games.
-Ctftime - The de facto website for everything CTF related.
-TryHackMe - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs.
-PicoCTF - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
